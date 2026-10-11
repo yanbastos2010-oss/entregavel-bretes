@@ -1,0 +1,6 @@
+{
+  "name": "+100 Projetos Profissionais de Bretes para Gado",
+  "description": "Área de Membros exclusiva para acesso e download do material completo de projetos profissionais de bretes para gado e bônus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
